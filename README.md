@@ -1,4 +1,4 @@
-# Join TEDxP
+ # Join TEDxP
 
 ## One World, One Mission!
 
@@ -13,7 +13,7 @@ You may, also, email **[0x48piraj](https://github.com/0x48piraj)**.
 
 
 
-### Some `ISSUE_TEMPLATES` :
+### Some <code> `ISSUE_TEMPLATES`</code> :
 
 ---
 
